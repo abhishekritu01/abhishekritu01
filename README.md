@@ -3,7 +3,7 @@
   <img src="abhishek.jpeg" alt="Abhishek Ritu" width="200" style="border-radius: 10px; filter: invert(100%);"/>
 </p>
 
-# Abhishek  - Full Stack Developer
+# Abhishek - Full Stack Developer
 
 Hi there! 👋 I'm Abhishek Ritu, a full-stack developer with a passion for building innovative solutions. Currently diving into the exciting realms of AI & Machine Learning. Welcome to my GitHub profile!
 
@@ -18,12 +18,12 @@ Hi there! 👋 I'm Abhishek Ritu, a full-stack developer with a passion for buil
 
 ### Programming Languages | Frontend Development
 
-| Language   | Proficiency   | Framework  | Proficiency   |
-|------------|---------------|------------|---------------|
+| Language     | Proficiency   | Framework    | Proficiency   |
+|--------------|---------------|--------------|---------------|
 | JavaScript 🌐 | Advanced      | React ⚛️     | Advanced      |
 | TypeScript 🌐 | Intermediate  | Next.js      | Advanced      |
 | Python 🐍    | Intermediate  | Vue.js       | Intermediate  |
-| Golang 🐹    | Beginner      |            |               |
+| Golang 🐹    | Beginner      |              |               |
 
 ### Backend Development | Database
 
@@ -51,8 +51,7 @@ Hi there! 👋 I'm Abhishek Ritu, a full-stack developer with a passion for buil
 | RESTful APIs 🌐| Swagger 📘    | WebStorm 🛠️  | Windows 🪟     |
 | CI/CD 🔄       | Jenkins 🚀    |               |               |
 
-
-
+### Frontend Technologies | Backend Technologies
 
 | **Frontend Technologies**                | **Backend Technologies**                    |
 |-----------------------------------------|--------------------------------------------|
@@ -63,6 +62,8 @@ Hi there! 👋 I'm Abhishek Ritu, a full-stack developer with a passion for buil
 | - State Management (Redux, Vuex) 📊     | - GraphQL API 🌐                            |
 | - GraphQL 🌐                            |                                            |
 
+### Database Management | DevOps & CI/CD
+
 | **Database Management**                  | **DevOps & CI/CD**                          |
 |-----------------------------------------|--------------------------------------------|
 | - Database Design 🛠️                    | - Docker Containers 🐳                    |
@@ -71,6 +72,8 @@ Hi there! 👋 I'm Abhishek Ritu, a full-stack developer with a passion for buil
 | - Database Administration                | - Continuous Integration and Continuous Deployment 🔄|
 |   (MongoDB, MySQL, PostgreSQL) 🗃️       |                                            |
 
+### Cloud Platforms | Other Tools
+
 | **Cloud Platforms**                      | **Other Tools**                            |
 |-----------------------------------------|--------------------------------------------|
 | - Amazon Web Services (AWS) ☁️          | - Nginx Web Server 🌐                    |
@@ -78,28 +81,12 @@ Hi there! 👋 I'm Abhishek Ritu, a full-stack developer with a passion for buil
 | - Serverless Computing ☁️               | - Figma for Design Collaboration 🎨       |
 | - Cloud Deployment and Management ☁️    | - VSCode, IntelliJ, WebStorm 🛠️         |
 
+### Design Tools | IDEs | Operating Systems
 
-
-### Design Tools
-
-| Tool         | Tool         |
-|--------------|--------------|
-| Figma        | Adobe XD      |
-| Sketch       | InVision      |
-
-### IDEs
-
-| IDE          | IDE          |
-|--------------|--------------|
-| VSCode       | IntelliJ IDEA |
-| WebStorm     | Eclipse       |
-
-### Operating Systems
-
-| OS           | OS           |
-|--------------|--------------|
-| Linux        | Windows      |
-| macOS        | Ubuntu       |
+| **Design Tools**                         | **IDEs**                                   | **Operating Systems**                      |
+|-----------------------------------------|--------------------------------------------|--------------------------------------------|
+| Figma        | Adobe XD      | VSCode       | IntelliJ IDEA | Linux        | Windows      |
+| Sketch       | InVision      | WebStorm     | Eclipse       | macOS        | Ubuntu       |
 
 ## Services
 
