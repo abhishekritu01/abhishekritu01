@@ -1,6 +1,6 @@
 <!-- Centered Image at the Top -->
 <p align="center">
-  <img src="abhishek.jpeg" alt="Abhishek Ritu" width="200"/>
+  <img src="abhishek.jpeg" alt="Abhishek Ritu" width="200" style="border-radius: 10px; filter: invert(100%);"/>
 </p>
 
 # Abhishek Ritu - Full Stack Developer
