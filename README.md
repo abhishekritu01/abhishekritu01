@@ -3,7 +3,7 @@
   <img src="abhishek.jpeg" alt="Abhishek Ritu" width="200" style="border-radius: 10px; filter: invert(100%);"/>
 </p>
 
-# Abhishek Ritu - Full Stack Developer
+# Abhishek  - Full Stack Developer
 
 Hi there! 👋 I'm Abhishek Ritu, a full-stack developer with a passion for building innovative solutions. Currently diving into the exciting realms of AI & Machine Learning. Welcome to my GitHub profile!
 
@@ -20,81 +20,65 @@ Hi there! 👋 I'm Abhishek Ritu, a full-stack developer with a passion for buil
 
 | Language   | Proficiency   | Framework  | Proficiency   |
 |------------|---------------|------------|---------------|
-| JavaScript | Advanced      | React      | Advanced      |
-| TypeScript | Intermediate  | Next.js    | Advanced      |
-| Python     | Intermediate  | Vue.js     | Intermediate  |
-| Golang     | Beginner      |            |               |
+| JavaScript 🌐 | Advanced      | React ⚛️     | Advanced      |
+| TypeScript 🌐 | Intermediate  | Next.js      | Advanced      |
+| Python 🐍    | Intermediate  | Vue.js       | Intermediate  |
+| Golang 🐹    | Beginner      |            |               |
 
 ### Backend Development | Database
 
 | Framework     | Proficiency   | Database      | Proficiency   |
 |---------------|---------------|---------------|---------------|
-| Node.js       | Advanced      | MongoDB       | Advanced      |
-| Spring Boot   | Intermediate  | MySQL         | Intermediate  |
-| Golang        | Beginner      | PostgreSQL    | Intermediate  |
+| Node.js 🌐    | Advanced      | MongoDB 🗃️    | Advanced      |
+| Spring Boot ☕ | Intermediate  | MySQL 🗃️      | Intermediate  |
+| Golang 🐹     | Beginner      | PostgreSQL 🗃️ | Intermediate  |
 
 ### DevOps | Cloud Platforms
 
 | Tool          | Proficiency   | Platform      | Proficiency   |
 |---------------|---------------|---------------|---------------|
-| Docker        | Advanced      | AWS           | Intermediate  |
-| Kubernetes    | Intermediate  | Google Cloud  | Beginner      |
-| Jenkins       | Intermediate  |               |               |
-| Nginx         | Intermediate  |               |               |
+| Docker 🐳     | Advanced      | AWS ☁️        | Intermediate  |
+| Kubernetes 🏗️ | Intermediate  | Google Cloud ☁️ | Beginner      |
+| Jenkins 🚀    | Intermediate  |               |               |
+| Nginx 🌐      | Intermediate  |               |               |
 
 ### Other Skills | Design Tools | IDEs | Operating Systems
 
 | Skill         | Tool         | IDE          | OS           |
 |---------------|--------------|--------------|--------------|
-| Git & GitHub  | Git          | VSCode        | Linux        |
-| HTTP          | Postman      | IntelliJ      | macOS        |
-| RESTful APIs  | Swagger      | WebStorm      | Windows      |
-| CI/CD         | Jenkins      |               |               |
+| Git & GitHub 🧑‍💻 | Git          | VSCode 🛠️     | Linux 🐧      |
+| HTTP 🌐       | Postman 📬    | IntelliJ 🛠️   | macOS        |
+| RESTful APIs 🌐| Swagger 📘    | WebStorm 🛠️  | Windows 🪟     |
+| CI/CD 🔄       | Jenkins 🚀    |               |               |
 
-### Frontend Technologies
 
-- Responsive Web Design
-- Single Page Applications (SPA)
-- Progressive Web Apps (PWA)
-- Web Accessibility (WCAG)
-- State Management (Redux, Vuex)
-- GraphQL
 
-### Backend Technologies
 
-- RESTful API Development
-- Microservices Architecture
-- Serverless Computing (AWS Lambda)
-- Authentication & Authorization (OAuth, JWT)
-- GraphQL API
+| **Frontend Technologies**                | **Backend Technologies**                    |
+|-----------------------------------------|--------------------------------------------|
+| - Responsive Web Design 🌐              | - RESTful API Development 🚀               |
+| - Single Page Applications (SPA) 📄     | - Microservices Architecture 🏗️          |
+| - Progressive Web Apps (PWA) 🔄          | - Serverless Computing (AWS Lambda) ☁️    |
+| - Web Accessibility (WCAG) ♿            | - Authentication & Authorization (OAuth, JWT) 🔐|
+| - State Management (Redux, Vuex) 📊     | - GraphQL API 🌐                            |
+| - GraphQL 🌐                            |                                            |
 
-### Database Management
+| **Database Management**                  | **DevOps & CI/CD**                          |
+|-----------------------------------------|--------------------------------------------|
+| - Database Design 🛠️                    | - Docker Containers 🐳                    |
+| - Data Modeling 📈                      | - Kubernetes Orchestration 🏗️            |
+| - Indexing and Query Optimization 🔍     | - Jenkins Pipelines 🚀                    |
+| - Database Administration                | - Continuous Integration and Continuous Deployment 🔄|
+|   (MongoDB, MySQL, PostgreSQL) 🗃️       |                                            |
 
-- Database Design
-- Data Modeling
-- Indexing and Query Optimization
-- Database Administration (MongoDB, MySQL, PostgreSQL)
+| **Cloud Platforms**                      | **Other Tools**                            |
+|-----------------------------------------|--------------------------------------------|
+| - Amazon Web Services (AWS) ☁️          | - Nginx Web Server 🌐                    |
+| - Google Cloud Platform (GCP) ☁️        | - Git Version Control 🧑‍💻                 |
+| - Serverless Computing ☁️               | - Figma for Design Collaboration 🎨       |
+| - Cloud Deployment and Management ☁️    | - VSCode, IntelliJ, WebStorm 🛠️         |
 
-### DevOps & CI/CD
 
-- Docker Containers
-- Kubernetes Orchestration
-- Jenkins Pipelines
-- Continuous Integration and Continuous Deployment
-
-### Cloud Platforms
-
-- Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
-- Serverless Computing
-- Cloud Deployment and Management
-
-### Other Tools
-
-- Nginx Web Server
-- Git Version Control
-- Figma for Design Collaboration
-- VSCode, IntelliJ, WebStorm
 
 ### Design Tools
 
