@@ -1,6 +1,6 @@
 <!-- Centered Image at the Top -->
 <p align="center">
-  <img src="your_image_url.jpg" alt="Abhishek Ritu" width="200"/>
+  <img src="abhishek.jpeg" alt="Abhishek Ritu" width="200"/>
 </p>
 
 # Abhishek Ritu - Full Stack Developer
